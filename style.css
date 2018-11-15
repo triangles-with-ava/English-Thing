@@ -1,0 +1,16 @@
+
+.title{
+    color: black;
+    position: relative;
+    text-align: center;
+    font-size: 2cm;
+    font-family: cursive;
+}
+
+.review{
+    color: black;
+    position: relative;
+    text-align: center;
+    font-size: 0cm;
+    font-family: Arial;
+}
